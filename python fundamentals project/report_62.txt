@@ -1,0 +1,9 @@
+===== Report Card =====
+Name       : kritika
+Roll No.   : 62
+Math      : 98.0
+Science   : 99.0
+English   : 96.0
+Total      : 293.0
+Percentage : 97.67%
+Grade      : A+
